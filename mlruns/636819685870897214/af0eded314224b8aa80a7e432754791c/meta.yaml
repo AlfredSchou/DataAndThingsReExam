@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/af0eded314224b8aa80a7e432754791c/artifacts
+end_time: 1755430097041
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: af0eded314224b8aa80a7e432754791c
+run_name: respected-chimp-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430094258
+status: 3
+tags: []
+user_id: abjar

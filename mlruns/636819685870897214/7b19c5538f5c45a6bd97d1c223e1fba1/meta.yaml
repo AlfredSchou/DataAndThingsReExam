@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/7b19c5538f5c45a6bd97d1c223e1fba1/artifacts
+end_time: 1755430059439
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 7b19c5538f5c45a6bd97d1c223e1fba1
+run_name: valuable-calf-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430055242
+status: 3
+tags: []
+user_id: abjar

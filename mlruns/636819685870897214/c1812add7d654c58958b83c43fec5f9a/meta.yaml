@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/c1812add7d654c58958b83c43fec5f9a/artifacts
+end_time: 1755430202814
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: c1812add7d654c58958b83c43fec5f9a
+run_name: stately-whale-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430200082
+status: 3
+tags: []
+user_id: abjar

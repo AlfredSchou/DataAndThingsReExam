@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/0ded0c6dcc984b3aaa9a8d6e4b139baf/artifacts
+end_time: 1755430051256
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 0ded0c6dcc984b3aaa9a8d6e4b139baf
+run_name: clean-finch-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430047784
+status: 3
+tags: []
+user_id: abjar

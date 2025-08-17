@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/models/m-0b04618a447c402ab39a34ff6a932b63/artifacts
+creation_timestamp: 1755430048655
+experiment_id: '636819685870897214'
+last_updated_timestamp: 1755430051241
+model_id: m-0b04618a447c402ab39a34ff6a932b63
+model_type: null
+name: RandomForestRegressor
+source_run_id: 0ded0c6dcc984b3aaa9a8d6e4b139baf
+status: 2
+status_message: null

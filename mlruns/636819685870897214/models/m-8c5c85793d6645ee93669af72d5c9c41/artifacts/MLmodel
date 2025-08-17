@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/models/m-8c5c85793d6645ee93669af72d5c9c41/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-8c5c85793d6645ee93669af72d5c9c41
+model_size_bytes: 482
+model_uuid: m-8c5c85793d6645ee93669af72d5c9c41
+prompts: null
+run_id: 9348345dbc5640b1bfded9a0cfbf2d05
+utc_time_created: '2025-08-17 11:29:46.281753'

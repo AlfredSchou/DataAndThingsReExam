@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/8e14139816684a7488cec6c0067654bb/artifacts
+end_time: 1755430044714
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 8e14139816684a7488cec6c0067654bb
+run_name: victorious-duck-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430037381
+status: 3
+tags: []
+user_id: abjar

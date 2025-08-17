@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/0d8e579ed8644052850e9dac827d1b71/artifacts
+end_time: 1755430125553
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 0d8e579ed8644052850e9dac827d1b71
+run_name: defiant-sheep-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430122471
+status: 3
+tags: []
+user_id: abjar

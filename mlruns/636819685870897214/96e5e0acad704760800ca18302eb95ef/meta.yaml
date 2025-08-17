@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/96e5e0acad704760800ca18302eb95ef/artifacts
+end_time: 1755430088760
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 96e5e0acad704760800ca18302eb95ef
+run_name: salty-crab-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430085879
+status: 3
+tags: []
+user_id: abjar

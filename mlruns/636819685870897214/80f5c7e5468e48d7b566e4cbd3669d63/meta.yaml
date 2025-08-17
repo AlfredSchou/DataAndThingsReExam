@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/80f5c7e5468e48d7b566e4cbd3669d63/artifacts
+end_time: 1755430107889
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 80f5c7e5468e48d7b566e4cbd3669d63
+run_name: calm-elk-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430105102
+status: 3
+tags: []
+user_id: abjar

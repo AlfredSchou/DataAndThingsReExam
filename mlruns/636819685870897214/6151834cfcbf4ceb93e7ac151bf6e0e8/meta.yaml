@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/6151834cfcbf4ceb93e7ac151bf6e0e8/artifacts
+end_time: 1755430113500
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 6151834cfcbf4ceb93e7ac151bf6e0e8
+run_name: bedecked-quail-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430110550
+status: 3
+tags: []
+user_id: abjar

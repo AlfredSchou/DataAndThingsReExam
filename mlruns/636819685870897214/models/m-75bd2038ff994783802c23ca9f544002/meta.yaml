@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/models/m-75bd2038ff994783802c23ca9f544002/artifacts
+creation_timestamp: 1755430135496
+experiment_id: '636819685870897214'
+last_updated_timestamp: 1755430137889
+model_id: m-75bd2038ff994783802c23ca9f544002
+model_type: null
+name: KNeighborsRegressor
+source_run_id: 77895cc130f54d15856ee9a4080670d9
+status: 2
+status_message: null

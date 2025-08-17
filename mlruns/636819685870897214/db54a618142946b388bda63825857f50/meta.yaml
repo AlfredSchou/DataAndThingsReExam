@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/db54a618142946b388bda63825857f50/artifacts
+end_time: 1755430102319
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: db54a618142946b388bda63825857f50
+run_name: placid-snail-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430099706
+status: 3
+tags: []
+user_id: abjar

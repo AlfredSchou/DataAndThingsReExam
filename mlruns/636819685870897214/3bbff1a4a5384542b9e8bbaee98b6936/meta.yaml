@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/3bbff1a4a5384542b9e8bbaee98b6936/artifacts
+end_time: 1755430116390
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 3bbff1a4a5384542b9e8bbaee98b6936
+run_name: exultant-penguin-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430113509
+status: 3
+tags: []
+user_id: abjar

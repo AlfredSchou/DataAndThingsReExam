@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/9348345dbc5640b1bfded9a0cfbf2d05/artifacts
+end_time: 1755430188659
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 9348345dbc5640b1bfded9a0cfbf2d05
+run_name: amusing-dove-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430185677
+status: 3
+tags: []
+user_id: abjar

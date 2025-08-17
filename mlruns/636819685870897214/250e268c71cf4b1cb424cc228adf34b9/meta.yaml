@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/250e268c71cf4b1cb424cc228adf34b9/artifacts
+end_time: 1755430099696
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 250e268c71cf4b1cb424cc228adf34b9
+run_name: luxuriant-ape-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430097050
+status: 3
+tags: []
+user_id: abjar

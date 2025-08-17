@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/4bb9b8d00c1148e78e60a1d634a558dc/artifacts
+end_time: 1755430077687
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 4bb9b8d00c1148e78e60a1d634a558dc
+run_name: orderly-owl-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430070358
+status: 3
+tags: []
+user_id: abjar

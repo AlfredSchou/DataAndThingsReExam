@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/1e917df5e75141d4a4562ed95ba96e89/artifacts
+end_time: 1755430131618
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 1e917df5e75141d4a4562ed95ba96e89
+run_name: stylish-ox-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430128479
+status: 3
+tags: []
+user_id: abjar

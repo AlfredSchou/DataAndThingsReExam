@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/b1ed7aa4c0fd4518b19d104a3f0c8b1c/artifacts
+end_time: 1755430197272
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: b1ed7aa4c0fd4518b19d104a3f0c8b1c
+run_name: melodic-hog-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430194321
+status: 3
+tags: []
+user_id: abjar
