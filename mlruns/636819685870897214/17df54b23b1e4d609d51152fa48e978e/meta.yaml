@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/17df54b23b1e4d609d51152fa48e978e/artifacts
+end_time: 1755430064054
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 17df54b23b1e4d609d51152fa48e978e
+run_name: magnificent-seal-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430059452
+status: 3
+tags: []
+user_id: abjar

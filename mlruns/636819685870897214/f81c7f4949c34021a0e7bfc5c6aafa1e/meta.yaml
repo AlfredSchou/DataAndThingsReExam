@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/f81c7f4949c34021a0e7bfc5c6aafa1e/artifacts
+end_time: 1755430147625
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: f81c7f4949c34021a0e7bfc5c6aafa1e
+run_name: rare-steed-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430144314
+status: 3
+tags: []
+user_id: abjar

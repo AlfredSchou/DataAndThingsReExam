@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/f2a3fed5c8cc495f85f9978802d182cd/artifacts
+end_time: 1755430200072
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: f2a3fed5c8cc495f85f9978802d182cd
+run_name: flawless-rat-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430197282
+status: 3
+tags: []
+user_id: abjar

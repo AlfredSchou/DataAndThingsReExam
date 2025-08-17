@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/86b695e6828847c09e456e31b08b7026/artifacts
+end_time: 1755430110542
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 86b695e6828847c09e456e31b08b7026
+run_name: upset-ram-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430107898
+status: 3
+tags: []
+user_id: abjar

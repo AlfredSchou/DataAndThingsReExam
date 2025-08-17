@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/29e1fc0466d647e8896e27434384f49e/artifacts
+end_time: 1755430055232
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 29e1fc0466d647e8896e27434384f49e
+run_name: enchanting-shrew-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430051270
+status: 3
+tags: []
+user_id: abjar

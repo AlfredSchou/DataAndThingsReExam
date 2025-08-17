@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/ecb19cfe4cfc4513bafe66875d26c76d/artifacts
+end_time: 1755430168115
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: ecb19cfe4cfc4513bafe66875d26c76d
+run_name: languid-panda-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430161214
+status: 3
+tags: []
+user_id: abjar

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/c69e87880c1d455287e574de81ef2a86/artifacts
+end_time: 1755430208233
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: c69e87880c1d455287e574de81ef2a86
+run_name: ambitious-hawk-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430205662
+status: 4
+tags: []
+user_id: abjar

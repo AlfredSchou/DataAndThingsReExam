@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/aad0142f470a467cbd227572708d7215/artifacts
+end_time: 1755430194311
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: aad0142f470a467cbd227572708d7215
+run_name: capricious-hen-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430191543
+status: 3
+tags: []
+user_id: abjar

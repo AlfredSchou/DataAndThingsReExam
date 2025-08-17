@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/65c27adf5d214b3b9322360f614482a6/artifacts
+end_time: 1755430085866
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 65c27adf5d214b3b9322360f614482a6
+run_name: resilient-gnat-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430077699
+status: 3
+tags: []
+user_id: abjar

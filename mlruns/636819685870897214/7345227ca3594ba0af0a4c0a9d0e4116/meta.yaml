@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/7345227ca3594ba0af0a4c0a9d0e4116/artifacts
+end_time: 1755430047773
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 7345227ca3594ba0af0a4c0a9d0e4116
+run_name: unleashed-shoat-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430044725
+status: 3
+tags: []
+user_id: abjar

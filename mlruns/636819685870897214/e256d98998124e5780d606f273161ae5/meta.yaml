@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/e256d98998124e5780d606f273161ae5/artifacts
+end_time: 1755430161204
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: e256d98998124e5780d606f273161ae5
+run_name: ambitious-duck-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430156287
+status: 3
+tags: []
+user_id: abjar

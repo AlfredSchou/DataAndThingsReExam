@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/a2bd9c04401d48c48d64a0b8ede0ee82/artifacts
+end_time: 1755430094249
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: a2bd9c04401d48c48d64a0b8ede0ee82
+run_name: incongruous-dove-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430091422
+status: 3
+tags: []
+user_id: abjar

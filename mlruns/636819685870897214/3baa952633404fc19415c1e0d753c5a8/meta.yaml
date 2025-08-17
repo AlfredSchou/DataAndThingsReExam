@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/3baa952633404fc19415c1e0d753c5a8/artifacts
+end_time: 1755430205653
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 3baa952633404fc19415c1e0d753c5a8
+run_name: bouncy-sponge-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430202825
+status: 3
+tags: []
+user_id: abjar

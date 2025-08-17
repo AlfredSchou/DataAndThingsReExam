@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/a0512eaefbe4474ebea9575a10e0ee19/artifacts
+end_time: 1755430144304
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: a0512eaefbe4474ebea9575a10e0ee19
+run_name: smiling-sloth-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430141228
+status: 3
+tags: []
+user_id: abjar

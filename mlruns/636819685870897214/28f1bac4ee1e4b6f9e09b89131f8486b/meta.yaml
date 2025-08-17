@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/28f1bac4ee1e4b6f9e09b89131f8486b/artifacts
+end_time: 1755430176165
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 28f1bac4ee1e4b6f9e09b89131f8486b
+run_name: industrious-colt-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430168125
+status: 3
+tags: []
+user_id: abjar

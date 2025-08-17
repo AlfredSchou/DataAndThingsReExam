@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/90d6b34f4ebb472da61d641175f3d668/artifacts
+end_time: 1755430151752
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 90d6b34f4ebb472da61d641175f3d668
+run_name: burly-fawn-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430147634
+status: 3
+tags: []
+user_id: abjar

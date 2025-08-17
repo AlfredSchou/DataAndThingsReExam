@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/768a36a403a44ab7aeac773dcaaa9ec1/artifacts
+end_time: 1755430141217
+entry_point_name: ''
+experiment_id: '636819685870897214'
+lifecycle_stage: active
+run_id: 768a36a403a44ab7aeac773dcaaa9ec1
+run_name: bittersweet-bird-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755430137915
+status: 3
+tags: []
+user_id: abjar

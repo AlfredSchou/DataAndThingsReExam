@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/abjar/Desktop/data-things-reexam/DataAndThingsReExam/mlruns/636819685870897214/models/m-71252051503f47e4a5dc895f38552d2a/artifacts
+creation_timestamp: 1755430100037
+experiment_id: '636819685870897214'
+last_updated_timestamp: 1755430102307
+model_id: m-71252051503f47e4a5dc895f38552d2a
+model_type: null
+name: LinearRegression
+source_run_id: db54a618142946b388bda63825857f50
+status: 2
+status_message: null
